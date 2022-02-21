@@ -14,6 +14,7 @@
 --
 - https://eloquentjavascript.net/05_higher_order.html
 - https://medium.com/javascript-scene/higher-order-functions-composing-software-5365cf2cbe99
+- http://learnyouahaskell.com/higher-order-functions#curried-functions
 
 4.Closures
 --
@@ -29,7 +30,13 @@
 - https://www.youtube.com/watch?v=kclGXphtmVg
 - https://www.youtube.com/watch?v=I4MebkHvj8g
 
-6.Advanced
+6.Recursion
+-- 
+- http://learnyouahaskell.com/recursion#hello-recursion
+- https://developer.mozilla.org/en-US/docs/Glossary/Recursion
+- https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide/Functions#recursion
+
+7.Advanced
 --
 - https://www.youtube.com/watch?v=BJG-c65XkEU
 
